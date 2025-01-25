@@ -1,0 +1,3 @@
+[submodule "mingw-w64"]
+	path = mingw-w64
+	url = https://github.com/mirror/mingw-w64.git
